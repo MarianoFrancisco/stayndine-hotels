@@ -1,4 +1,4 @@
-package com.stayndine.identity.infrastructure.config;
+package com.stayndine.hotels.infrastructure.config;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
